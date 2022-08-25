@@ -13,3 +13,6 @@ Create strong passwords in the terminal
     git clone https://github.com/L4ze3/genpw
     cd genpw
     sudo make install
+
+# Uninstall
+    sudo make uninstall
